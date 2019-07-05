@@ -1,0 +1,11 @@
+{
+  "name": "ReactLazyLoadHook",
+  "version": "0.0.0",
+  "description": "React Lazy Load using Hook",
+  "main": "src/index.js",
+  "author": "ddhp",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.6"
+  }
+}
