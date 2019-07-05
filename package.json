@@ -1,5 +1,5 @@
 {
-  "name": "ReactLazyLoadHook",
+  "name": "react-lazy-load-hook",
   "version": "0.0.0",
   "description": "React Lazy Load using Hook",
   "main": "src/index.js",
